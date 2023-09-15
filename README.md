@@ -1,7 +1,8 @@
-### Hi there 👋
+### Bonjour 👋
 
 ### I'm LiAn_.
-An international student. Live in Paris, France.
+An international student.  
+Now live in Paris, France.
 
 Email: shiyu46@icloud.com  
 
