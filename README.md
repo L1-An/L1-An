@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-### I'm Shiyu.
-A 17-year old senior high student
+### I'm LiAn_.
+An international student. Live in Paris, France.
 
 Email: shiyu46@icloud.com  
-GitEE: [Shiyu46](https://gitee.com/shiyu46)
 
 ```
-val lang = listOf("Kotlin")
-
-val learningLang = listOf("Java", "JavaScript", "Python", "C")
+val learningLang = listOf("Swift", "Kotlin", "Java", "JavaScript", "Python", "C")
 ```
