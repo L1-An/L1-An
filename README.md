@@ -18,8 +18,11 @@ val LearningLang = listOf("JavaScript")
 
 ## My Projects
 
-### [YuSpawnHologram](https://github.com/L1-An/YuSpawnerHologram)
+### 📖[YusDoc](https://github.com/L1-An/YusDoc)
+> My document, you can find all the plugins' wiki here!
+
+### 😈[YuSpawnHologram](https://github.com/L1-An/YuSpawnerHologram)
 > Visualize warmup time for your MythicMobs spawners!
 
-### [YuIllustration](https://github.com/L1-An/YuIllustration)
+### 📕[YuIllustration](https://github.com/L1-An/YuIllustration)
 > Create illustrations for your server, multi-category, multi-plugin supports and customized GUIs!
