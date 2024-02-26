@@ -11,7 +11,7 @@ My [Discord server](https://discord.gg/SzPBHGttaR)
 
 ## Languages
 ```kotlin
-val speakLanguage = listOf("Chinese", "English", "French")
+val speakLang = listOf("Chinese", "English", "French")
 val language = listOf("Kotlin", "Swift", "Java")
 val LearningLang = listOf("JavaScript")
 ```
