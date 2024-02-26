@@ -22,4 +22,4 @@ val LearningLang = listOf("JavaScript")
 > Visualize warmup time for your MythicMobs spawners!
 
 ### [YuIllustration](https://github.com/L1-An/YuIllustration)
-> Create illustrations for your server, multi-category, multi-plugin supports!
+> Create illustrations for your server, multi-category, multi-plugin supports and customized GUIs!
