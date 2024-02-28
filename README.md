@@ -22,7 +22,9 @@ val LearningLang = listOf("JavaScript")
 > My document, you can find all the plugins' wiki here!
 
 ### 😈[YuSpawnHologram](https://github.com/L1-An/YuSpawnerHologram)
+> Free and with source code.  
 > Visualize warmup time for your MythicMobs spawners!
 
 ### 📕[YuIllustration](https://github.com/L1-An/YuIllustration)
+> Premium, [contact me](https://discord.gg/SzPBHGttaR) to buy it.  
 > Create illustrations for your server, multi-category, multi-plugin supports and customized GUIs!
