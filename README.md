@@ -25,6 +25,6 @@ val LearningLang = listOf("JavaScript")
 > Free and with source code.  
 > Visualize warmup time for your MythicMobs spawners!
 
-### 📕[YuIllustration](https://github.com/L1-An/YuIllustration)
+### 📕[YuIllustration](https://l1-an.github.io/YusDoc/docs/MinecraftPlugins/YuIllustration/intro)
 > Premium, [contact me](https://discord.gg/SzPBHGttaR) to buy it.  
 > Create illustrations for your server, multi-category, multi-plugin supports and customized GUIs!
