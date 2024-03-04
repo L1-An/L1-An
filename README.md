@@ -18,7 +18,7 @@ val LearningLang = listOf("JavaScript")
 
 ## My Projects
 
-### 📖[YusDoc](https://github.com/L1-An/YusDoc)
+### 📖[YusDoc](https://l1-an.github.io/YusDoc)
 > My document, you can find all the plugins' wiki here!
 
 ### 😈[YuSpawnHologram](https://github.com/L1-An/YuSpawnerHologram)
