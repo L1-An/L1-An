@@ -28,3 +28,15 @@ val learningLang = listOf("JavaScript")
 ### 📕[YuIllustration](https://l1-an.github.io/YusDoc/docs/MinecraftPlugins/YuIllustration/intro)
 > Premium, [contact me](https://discord.gg/SzPBHGttaR) to buy it, with free trail version.  
 > Create illustrations for your server, multi-category, multi-plugin supports and customizable GUIs!
+
+---
+<details>
+  <summary>Stats</summary>
+  
+  ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L1-An&theme=github_dark)
+  ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=L1-An&theme=github_dark)
+  ![top-language-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L1-An&theme=github_dark)
+  ![top-language-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=L1-An&theme=github_dark)
+  ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=L1-An&theme=github_dark&utcOffset=8)
+  ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=C1oudYAb)
+</details>
