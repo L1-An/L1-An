@@ -9,6 +9,9 @@ My plugins on [SpigotMC](https://www.spigotmc.org/resources/authors/fengling.572
 My plugins on [巴哈姆特](https://home.gamer.com.tw/profile/index_wall.php?owner=c1oudyab)  
 My [Discord server](https://discord.gg/SzPBHGttaR)  
 
+Total coding time  
+![wakatime](https://wakatime.com/badge/user/018b3a75-57d0-4174-82b2-b604a838b205.svg)  
+
 ## Languages
 ```kotlin
 val speakLang = listOf("Chinese", "English", "French")
