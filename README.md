@@ -16,7 +16,7 @@ Total coding time
 ```kotlin
 val speakLang = listOf("Chinese", "English", "French")
 val codeLang = listOf("Kotlin", "Swift", "Java")
-val learningLang = listOf("JavaScript")
+val learningLang = listOf("JavaScript", "Python")
 ```
 
 ## My Projects
