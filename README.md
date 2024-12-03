@@ -32,6 +32,9 @@ val learningLang = listOf("JavaScript", "Python")
 > Premium, [contact me](https://discord.gg/SzPBHGttaR) to buy it, with free trail version.  
 > Create illustrations for your server, multi-category, multi-plugin supports and customizable GUIs!
 
+### And more...
+Check them [here](https://github.com/orgs/YuSeries/repositories)
+
 ---
 <details>
   <summary>Stats</summary>
