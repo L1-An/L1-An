@@ -10,7 +10,7 @@ My plugins on [巴哈姆特](https://home.gamer.com.tw/profile/index_wall.php?ow
 My [Discord group](https://discord.gg/SzPBHGttaR)  
 
 Total coding time  
-![wakatime](https://wakatime.com/badge/user/018b3a75-57d0-4174-82b2-b604a838b205.svg)  
+[![wakatime](https://wakatime.com/badge/user/018b3a75-57d0-4174-82b2-b604a838b205.svg)](https://wakatime.com/@018b3a75-57d0-4174-82b2-b604a838b205)  
 
 ## Languages
 ```kotlin
