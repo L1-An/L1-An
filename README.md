@@ -2,7 +2,7 @@
 
 ## I'm LiAn_.
 An international student.  
-Now i'm programming for Minecraft Plugins
+Now i'm programming for Minecraft Plugins and Discord bots
 
 Here are some related links:  
 My plugins on [SpigotMC](https://www.spigotmc.org/resources/authors/fengling.572029/)  
