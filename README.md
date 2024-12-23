@@ -15,20 +15,20 @@ Total coding time
 ## Languages
 ```kotlin
 val speakLang = listOf("Chinese", "English", "French")
-val codeLang = listOf("Kotlin", "Swift", "Java")
-val learningLang = listOf("JavaScript", "Python")
+val codeLang = listOf("Kotlin", "Java")
+val learningLang = listOf("JavaScript", "Python", "swift")
 ```
 
 ## My Projects
 
-### 📖[YusDoc](https://l1-an.github.io/YusDoc)
+### 📖[YusDoc](https://docs.yuseries.org)
 > My document, you can find all my plugins' wiki here!
 
 ### 😈[YuSpawnHologram](https://github.com/L1-An/YuSpawnerHologram)
 > Free and open source.  
 > Visualize warmup time for your MythicMobs spawners!
 
-### 📕[YuIllustration](https://l1-an.github.io/YusDoc/docs/MinecraftPlugins/YuIllustration/intro)
+### 📕[YuIllustration](https://docs.yuseries.org/plugins/yuseries/YuIllustration/)
 > Premium, [contact me](https://discord.gg/SzPBHGttaR) to buy it, with free trail version.  
 > Create illustrations for your server, multi-category, multi-plugin supports and customizable GUIs!
 
